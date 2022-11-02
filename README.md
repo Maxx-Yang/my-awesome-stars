@@ -119,6 +119,8 @@
 
 ## JavaScript 
 
+- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -185,7 +187,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
