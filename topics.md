@@ -66,6 +66,7 @@
 - [scala](#scala)
 - [serverless](#serverless)
 - [shell](#shell)
+- [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -93,15 +94,17 @@
 
 ## awesome 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## awesome-list 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## bash 
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
 
 ## bootstrap 
@@ -120,7 +123,7 @@
 ## cli 
 
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## code-review 
@@ -208,6 +211,7 @@
 
 ## hacktoberfest 
 
+- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -215,7 +219,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
@@ -279,6 +283,7 @@
 
 ## javascript 
 
+- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -315,7 +320,8 @@
 
 ## macos 
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## maven 
@@ -464,10 +470,14 @@
 ## shell 
 
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## software 
+
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 ## spring 
 
@@ -501,7 +511,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## testing 
@@ -514,7 +524,7 @@
 
 ## typescript 
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
 ## vue 
