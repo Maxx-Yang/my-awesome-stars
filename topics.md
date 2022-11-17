@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [android](#android)
 - [angular](#angular)
 - [api](#api)
 - [automation](#automation)
@@ -52,6 +53,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [open-source](#open-source)
 - [others](#others)
 - [package-manager](#package-manager)
 - [postgresql](#postgresql)
@@ -79,6 +81,10 @@
 - [web-components](#web-components)
 - [webpack](#webpack)
 - [windows](#windows)
+
+## android 
+
+- [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 
 ## angular 
 
@@ -212,6 +218,7 @@
 
 ## hacktoberfest 
 
+- [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -250,6 +257,7 @@
 
 ## java 
 
+- [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [xuwujing/java-study](https://github.com/xuwujing/java-study) - java-study 是本人学习Java过程中记录的一些代码！从Java基础的数据类型、jdk1.8的Lambda、Stream和日期的使用、 IO流、数据集合、多线程使用、并发编程、23种设计模式示例代码、常用的工具类， 以及一些常用框架，netty、mina、springboot、kafka、storm、zookeeper、redis、elasticsearch、hbase、hive等等。
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -302,6 +310,7 @@
 
 ## kotlin 
 
+- [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 - [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
 
 ## kubernetes 
@@ -361,6 +370,10 @@
 ## nosql 
 
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
+
+## open-source 
+
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 
 ## others 
 
@@ -430,6 +443,7 @@
 
 ## python 
 
+- [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
