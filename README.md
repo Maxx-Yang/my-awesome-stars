@@ -8,6 +8,7 @@
 - [AutoIt](#autoit)
 - [C#](#c#)
 - [C++](#c++)
+- [Crystal](#crystal)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -44,6 +45,10 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
+
+## Crystal 
+
+- [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 
 ## Go 
 
