@@ -186,6 +186,7 @@
 
 ## Swift 
 
+- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 
 ## TypeScript 
