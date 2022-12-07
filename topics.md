@@ -256,7 +256,7 @@
 
 ## ipfs 
 
-- [zLibSearcher/zlib-searcher](https://github.com/zLibSearcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
 
 ## java 
 
