@@ -38,7 +38,6 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
-- [image-processing](#image-processing)
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
@@ -142,6 +141,7 @@
 
 ## csharp 
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
 
 ## database 
@@ -177,6 +177,7 @@
 
 ## dotnet 
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## electron 
@@ -260,10 +261,6 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
-
-## image-processing 
-
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 
 ## ipfs 
 
