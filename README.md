@@ -193,7 +193,7 @@
 
 ## TypeScript 
 
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Search books index, create your private local library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
