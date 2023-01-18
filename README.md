@@ -149,6 +149,7 @@
 
 ## Others 
 
+- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [devoxx/JavaRoadmap2022](https://github.com/devoxx/JavaRoadmap2022) - The 2022 Java Developers Roadmap
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -215,5 +216,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [MaXiangX](https://github.com/MaXiangX) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Maxwell-Walker](https://github.com/Maxwell-Walker) has waived all copyright and related or neighboring rights to this work.
 
