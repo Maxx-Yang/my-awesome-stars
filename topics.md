@@ -412,7 +412,7 @@
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
-- [apache/commons-lang](https://github.com/apache/commons-lang) - Mirror of Apache Commons Lang
+- [apache/commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [moonrailgun/chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) - 中国地址生成器 - 三级地址 四级地址 随机生成完整地址
