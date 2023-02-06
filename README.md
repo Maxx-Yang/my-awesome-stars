@@ -150,10 +150,12 @@
 
 ## Objective-C 
 
+- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 
 ## Others 
 
+- [zwf234/WeChat](https://github.com/zwf234/WeChat) - 
 - [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.3） 、TikTok（V27.9.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [Tartarus2014/QuantumultX-Script](https://github.com/Tartarus2014/QuantumultX-Script) - QuantumultX脚本收集
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
@@ -187,6 +189,7 @@
 
 ## Shell 
 
+- [lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。
 - [SukkaW/zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
