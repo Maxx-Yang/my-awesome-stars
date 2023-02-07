@@ -14,6 +14,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
 - [code-review](#code-review)
@@ -122,6 +123,10 @@
 ## c 
 
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+
+## chatgpt 
+
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 
 ## chrome 
 
