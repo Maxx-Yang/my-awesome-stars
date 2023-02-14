@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -85,6 +86,10 @@
 - [web-components](#web-components)
 - [webpack](#webpack)
 - [windows](#windows)
+
+## ai 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## android 
 
