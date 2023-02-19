@@ -402,6 +402,7 @@
 
 ## others 
 
+- [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 - [chengkongyiban/Surge](https://github.com/chengkongyiban/Surge) - 
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
