@@ -46,6 +46,7 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [linux](#linux)
 - [macos](#macos)
 - [maven](#maven)
@@ -132,6 +133,7 @@
 
 ## chatgpt 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 
@@ -342,6 +344,10 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
+## language 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## linux 
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -402,6 +408,7 @@
 
 ## others 
 
+- [cooolr/chatgpt_plus_proxy_website](https://github.com/cooolr/chatgpt_plus_proxy_website) - Flask反向代理ChatGPT Plus，完美复刻chat.openai.com/chat
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [KOP-XIAO/QuantumultX-Surge-API](https://github.com/KOP-XIAO/QuantumultX-Surge-API) - Several server-convert APIs  for QuantumultX/Surge/Clash/Mellow
@@ -421,7 +428,7 @@
 - [SukkaW/zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 10ms.
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
