@@ -64,6 +64,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [zTree/zTree_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
@@ -187,6 +188,7 @@
 
 ## Python 
 
+- [cooolr/chatgpt_plus_proxy_website](https://github.com/cooolr/chatgpt_plus_proxy_website) - Flask反向代理ChatGPT Plus，完美复刻chat.openai.com/chat
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## Rust 
@@ -217,7 +219,7 @@
 ## TypeScript 
 
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 10ms.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
