@@ -83,6 +83,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webpack](#webpack)
@@ -409,6 +410,9 @@
 
 ## others 
 
+- [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
+- [moerv9/chatgpt-telegram-bot](https://github.com/moerv9/chatgpt-telegram-bot) - A telegram bot that allows you to chat with ChatGPT.
 - [lovezm/chatgpt-plus-freeshare](https://github.com/lovezm/chatgpt-plus-freeshare) - chatgpt plus账号免费分享
 - [githubdulong/Script](https://github.com/githubdulong/Script) - QuantumultX｜Surge｜Loon
 - [cooolr/chatgpt_proxy_website](https://github.com/cooolr/chatgpt_proxy_website) - Flask reverse proxy ChatGPT website chat.openai.com/chat
@@ -618,6 +622,10 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## vuejs 
+
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## web 
 
