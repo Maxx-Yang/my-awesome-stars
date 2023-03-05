@@ -48,6 +48,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [linux](#linux)
+- [mac](#mac)
 - [macos](#macos)
 - [maven](#maven)
 - [mongodb](#mongodb)
@@ -86,6 +87,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [webpack](#webpack)
+- [website](#website)
 - [windows](#windows)
 
 ## ai 
@@ -133,6 +135,7 @@
 
 ## chatgpt 
 
+- [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
@@ -352,6 +355,10 @@
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+## mac 
+
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 ## macos 
 
@@ -633,6 +640,10 @@
 ## webpack 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## website 
+
+- [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
 
 ## windows 
 
