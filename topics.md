@@ -446,6 +446,7 @@
 
 ## others 
 
+- [lxfater/Portal](https://github.com/lxfater/Portal) - 
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
