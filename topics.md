@@ -448,6 +448,7 @@
 
 ## others 
 
+- [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
