@@ -70,6 +70,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [r](#r)
+- [rails](#rails)
 - [react](#react)
 - [react-native](#react-native)
 - [rest-api](#rest-api)
@@ -285,6 +286,7 @@
 
 ## hacktoberfest 
 
+- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
@@ -503,7 +505,7 @@
 - [zwf234/WeChat](https://github.com/zwf234/WeChat) - 
 - [TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles) - 搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.5） 、TikTok（V28.9.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.5） 、TikTok（V28.9.1）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [erdongchanyo/Rules](https://github.com/erdongchanyo/Rules) - 收集整理觉得还行的一些规则
 - [Tartarus2014/QuantumultX-Script](https://github.com/Tartarus2014/QuantumultX-Script) - QuantumultX脚本收集
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
@@ -588,6 +590,10 @@
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
+## rails 
+
+- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
+
 ## react 
 
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
@@ -604,6 +610,7 @@
 
 ## ruby 
 
+- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
