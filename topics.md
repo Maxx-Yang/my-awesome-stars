@@ -78,6 +78,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [scala](#scala)
+- [security](#security)
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
@@ -634,6 +635,10 @@
 ## scala 
 
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+
+## security 
+
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 
 ## serverless 
 
