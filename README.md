@@ -138,6 +138,7 @@
 
 ## JavaScript 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -273,7 +274,7 @@
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
