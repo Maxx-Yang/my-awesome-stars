@@ -26,6 +26,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## AutoIt 
@@ -286,6 +287,10 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 
