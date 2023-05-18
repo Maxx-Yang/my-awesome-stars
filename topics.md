@@ -529,6 +529,7 @@
 
 ## others 
 
+- [robdelacruz/lkwebserver](https://github.com/robdelacruz/lkwebserver) - Little Kitten Webserver
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [gvenzl/oci-oracle-xe](https://github.com/gvenzl/oci-oracle-xe) - Build scripts for Oracle Database XE container/docker images
