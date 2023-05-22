@@ -589,7 +589,7 @@
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
-- [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [apache/commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
