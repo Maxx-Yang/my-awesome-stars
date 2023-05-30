@@ -15,6 +15,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -66,6 +67,7 @@
 
 ## Go 
 
+- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -179,6 +181,10 @@
 - [moonrailgun/chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) - 中国地址生成器 - 三级地址 四级地址 随机生成完整地址
 - [dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm) - Sha256 Algorithm Explained
 - [seajs/seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
+
+## Jupyter Notebook 
+
+- [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
 
 ## Kotlin 
 
