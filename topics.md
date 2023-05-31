@@ -297,6 +297,7 @@
 
 ## go 
 
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
@@ -305,6 +306,7 @@
 
 ## golang 
 
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
