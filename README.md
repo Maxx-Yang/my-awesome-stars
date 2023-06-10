@@ -40,6 +40,7 @@
 
 ## C# # 
 
+- [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -200,6 +201,7 @@
 
 ## Others 
 
+- [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
