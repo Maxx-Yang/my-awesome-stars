@@ -534,6 +534,8 @@
 
 ## others 
 
+- [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
+- [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
 - [robdelacruz/lkwebserver](https://github.com/robdelacruz/lkwebserver) - Little Kitten Webserver
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
