@@ -602,7 +602,7 @@
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [KOP-XIAO/QuantumultX-Surge-API](https://github.com/KOP-XIAO/QuantumultX-Surge-API) - Several server-convert APIs  for QuantumultX/Surge/Clash/Mellow
-- [deezertidal/Surge_Module](https://github.com/deezertidal/Surge_Module) - Surge模块
+- [deezertidal/Surge_Module](https://github.com/deezertidal/Surge_Module) - Surge模块 module sgmodule 规则
 - [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 - [chengkongyiban/Surge](https://github.com/chengkongyiban/Surge) - 
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
