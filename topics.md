@@ -573,6 +573,7 @@
 
 ## others 
 
+- [raingart/Nova-YouTube-extension](https://github.com/raingart/Nova-YouTube-extension) - 
 - [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
 - [uclort/calendar](https://github.com/uclort/calendar) - 
 - [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
