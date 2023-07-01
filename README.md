@@ -159,6 +159,7 @@
 
 ## JavaScript 
 
+- [raingart/Nova-YouTube-extension](https://github.com/raingart/Nova-YouTube-extension) - 
 - [uclort/calendar](https://github.com/uclort/calendar) - 
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
