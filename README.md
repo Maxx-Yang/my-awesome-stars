@@ -159,6 +159,8 @@
 
 ## JavaScript 
 
+- [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015.
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Documentation and source code for PopClip extensions.
 - [raingart/Nova-YouTube-extension](https://github.com/raingart/Nova-YouTube-extension) - 
 - [uclort/calendar](https://github.com/uclort/calendar) - 
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
