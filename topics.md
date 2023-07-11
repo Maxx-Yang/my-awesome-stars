@@ -366,7 +366,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
+- [consuldemocracy/consul](https://github.com/consuldemocracy/consul) - Consul Democracy - Open Government and E-Participation Web Software
 - [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -715,7 +715,7 @@
 
 ## rails 
 
-- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
+- [consuldemocracy/consul](https://github.com/consuldemocracy/consul) - Consul Democracy - Open Government and E-Participation Web Software
 
 ## react 
 
@@ -734,7 +734,7 @@
 
 ## ruby 
 
-- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
+- [consuldemocracy/consul](https://github.com/consuldemocracy/consul) - Consul Democracy - Open Government and E-Participation Web Software
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
@@ -785,7 +785,7 @@
 - [baomidou/dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 - [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
-- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 2.7、 Spring Cloud Hoxton、 OAuth2 . Give a star
+- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.1、 Spring Cloud 2022、 OAuth2 . Give a star
 - [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统
 - [vladmihalcea/hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 - [callicoder/spring-boot-file-upload-download-rest-api-example](https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example) - Spring Boot File Upload / Download Rest API Example
@@ -868,7 +868,7 @@
 
 ## vue 
 
-- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 2.7、 Spring Cloud Hoxton、 OAuth2 . Give a star
+- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.1、 Spring Cloud 2022、 OAuth2 . Give a star
 - [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
