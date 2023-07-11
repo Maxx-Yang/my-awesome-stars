@@ -259,7 +259,7 @@
 
 ## Ruby 
 
-- [consul/consul](https://github.com/consul/consul) - Consul Democracy - Open Government and E-Participation Web Software
+- [consuldemocracy/consul](https://github.com/consuldemocracy/consul) - Consul Democracy - Open Government and E-Participation Web Software
 
 ## Rust 
 
@@ -329,7 +329,7 @@
 ## Vue 
 
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 2.7、 Spring Cloud Hoxton、 OAuth2 . Give a star
+- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.1、 Spring Cloud 2022、 OAuth2 . Give a star
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 
 
