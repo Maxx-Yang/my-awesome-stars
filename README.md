@@ -220,6 +220,7 @@
 
 ## Others 
 
+- [ecomfe/awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -338,5 +339,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Maxwell-Walker](https://github.com/Maxwell-Walker) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Maxx-Yang](https://github.com/Maxx-Yang) has waived all copyright and related or neighboring rights to this work.
 
