@@ -406,6 +406,7 @@
 
 ## java 
 
+- [jxlsteam/jxls](https://github.com/jxlsteam/jxls) - Java library for creating Excel reports using Excel templates
 - [Sayi/poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 - [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Easy Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, M
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -616,7 +617,7 @@
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [KOP-XIAO/QuantumultX-Surge-API](https://github.com/KOP-XIAO/QuantumultX-Surge-API) - Several server-convert APIs  for QuantumultX/Surge/Clash/Mellow
-- [deezertidal/Surge_Module](https://github.com/deezertidal/Surge_Module) - Surge模块 module sgmodule 规则
+- [deezertidal/Surge_Module](https://github.com/deezertidal/Surge_Module) - Surge模块 脚本 module sgmodule 面板 规则 分流 破解 解锁
 - [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 - [chengkongyiban/Surge](https://github.com/chengkongyiban/Surge) - 
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
