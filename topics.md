@@ -67,6 +67,7 @@
 - [maven](#maven)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
@@ -79,6 +80,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -549,6 +551,10 @@
 
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
+## music 
+
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
 ## mysql 
 
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
@@ -699,6 +705,10 @@
 ## powershell 
 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+## programming 
+
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 
 ## pwa 
 
