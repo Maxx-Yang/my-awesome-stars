@@ -10,6 +10,7 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -23,11 +24,13 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code-review](#code-review)
+- [computer-vision](#computer-vision)
 - [csharp](#csharp)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [deep-learning](#deep-learning)
 - [design](#design)
 - [devops](#devops)
 - [discord](#discord)
@@ -51,6 +54,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
@@ -62,6 +66,7 @@
 - [linux](#linux)
 - [lua](#lua)
 - [mac](#mac)
+- [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
 - [maven](#maven)
@@ -141,6 +146,10 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## artificial-intelligence 
+
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 
 ## automation 
 
@@ -227,6 +236,10 @@
 
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
+## computer-vision 
+
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
+
 ## csharp 
 
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -251,6 +264,10 @@
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+
+## deep-learning 
+
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 
 ## design 
 
@@ -295,6 +312,7 @@
 
 ## electron 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -401,6 +419,10 @@
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+
+## image-processing 
+
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 
 ## ipfs 
 
@@ -511,6 +533,10 @@
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+## machine-learning 
+
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 
 ## macos 
 
@@ -876,6 +902,7 @@
 
 ## typescript 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
