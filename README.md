@@ -229,6 +229,7 @@
 
 ## Others 
 
+- [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [ecomfe/awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts
