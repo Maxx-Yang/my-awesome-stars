@@ -170,7 +170,7 @@
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 - [jiangxy/websocket-debug-tool](https://github.com/jiangxy/websocket-debug-tool) - A tool to debug websocket/sockjs/stomp.
 - [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
-- [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015.
+- [dimdenGD/OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Documentation and source code for PopClip extensions.
 - [raingart/Nova-YouTube-extension](https://github.com/raingart/Nova-YouTube-extension) - 
 - [uclort/calendar](https://github.com/uclort/calendar) - 
