@@ -144,6 +144,7 @@
 
 ## android 
 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
 
