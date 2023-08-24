@@ -699,7 +699,7 @@
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [moerv9/chatgpt-telegram-bot](https://github.com/moerv9/chatgpt-telegram-bot) - A telegram bot that allows you to chat with ChatGPT.
 - [githubdulong/Script](https://github.com/githubdulong/Script) - QuantumultX｜Surge｜Loon
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
