@@ -101,6 +101,7 @@
 
 ## Java 
 
+- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [jxlsteam/jxls](https://github.com/jxlsteam/jxls) - Java library for creating Excel reports using Excel templates
 - [Sayi/poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
@@ -231,6 +232,7 @@
 
 ## Others 
 
+- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
