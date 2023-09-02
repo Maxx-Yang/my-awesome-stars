@@ -198,7 +198,7 @@
 
 ## bash 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -572,7 +572,7 @@
 
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
@@ -599,7 +599,7 @@
 ## macos 
 
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
@@ -722,7 +722,7 @@
 - [zwf234/WeChat](https://github.com/zwf234/WeChat) - 
 - [TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles) - 搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.7.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V31.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [erdongchanyo/Rules](https://github.com/erdongchanyo/Rules) - 收集整理觉得还行的一些规则
 - [Tartarus2014/QuantumultX-Script](https://github.com/Tartarus2014/QuantumultX-Script) - QuantumultX脚本收集
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
@@ -860,7 +860,7 @@
 
 ## rust 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
@@ -880,7 +880,7 @@
 
 ## shell 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
@@ -957,7 +957,7 @@
 
 ## terminal 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
