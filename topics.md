@@ -311,6 +311,7 @@
 
 ## devops 
 
+- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，大厂人都在看的书籍。如发现错误，谢谢提issue
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
@@ -561,7 +562,7 @@
 
 ## kubernetes 
 
-- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，大厂人都在看的书籍。如发现错误，谢谢提PR
+- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，大厂人都在看的书籍。如发现错误，谢谢提issue
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -887,7 +888,7 @@
 
 ## serverless 
 
-- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，大厂人都在看的书籍。如发现错误，谢谢提PR
+- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术，大厂人都在看的书籍。如发现错误，谢谢提issue
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
 ## shell 
