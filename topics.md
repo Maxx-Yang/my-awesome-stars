@@ -102,6 +102,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [scala](#scala)
@@ -485,6 +486,8 @@
 
 ## java 
 
+- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
+- [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [jiangxy/websocket-debug-tool](https://github.com/jiangxy/websocket-debug-tool) - A tool to debug websocket/sockjs/stomp.
@@ -693,6 +696,7 @@
 
 ## others 
 
+- [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [QiuChenlyOpenSource/QQFlacMusicDownloader](https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载
 - [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
@@ -866,6 +870,10 @@
 
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## reverse-engineering 
+
+- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 
 ## ruby 
 
