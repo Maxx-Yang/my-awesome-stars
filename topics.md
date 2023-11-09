@@ -218,7 +218,6 @@
 
 ## chatgpt 
 
-- [zhile-io/pandora](https://github.com/zhile-io/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models, available on Windows, Mac, Linux
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
@@ -748,7 +747,7 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
+- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
@@ -766,7 +765,7 @@
 - [zwf234/WeChat](https://github.com/zwf234/WeChat) - 
 - [TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles) - 搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.1） 、TikTok（V31.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.2） 、TikTok（V32.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [erdongchanyo/Rules](https://github.com/erdongchanyo/Rules) - 收集整理觉得还行的一些规则
 - [Tartarus2014/QuantumultX-Script](https://github.com/Tartarus2014/QuantumultX-Script) - QuantumultX脚本收集
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
