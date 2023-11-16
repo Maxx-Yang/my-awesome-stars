@@ -316,6 +316,7 @@
 
 ## design 
 
+- [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [rbmonster/learning-note](https://github.com/rbmonster/learning-note) - Java开发及面试（个人面试、工作总结、资料收集站）
 - [xuwujing/java-study](https://github.com/xuwujing/java-study) - java-study 是本人学习Java过程中记录的一些代码！从Java基础的数据类型、jdk1.8的Lambda、Stream和日期的使用、 IO流、数据集合、多线程使用、并发编程、23种设计模式示例代码、常用的工具类， 以及一些常用框架，netty、mina、springboot、kafka、storm、zookeeper、redis、elasticsearch、hbase、hive等等。
@@ -500,6 +501,7 @@
 
 ## java 
 
+- [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 深入探索Spring框架的核心机制与奥秘。这里是Lex——拥有8年Java后端经验的程序员分享的Spring源码阅读系列。从IOC容器、后置处理器、到Spring核心注解，一步步揭示Spring的魅力与内部工作原理。加入我，与Spring一起成长！
 - [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
@@ -878,6 +880,7 @@
 
 ## react 
 
+- [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [jiangxy/websocket-debug-tool](https://github.com/jiangxy/websocket-debug-tool) - A tool to debug websocket/sockjs/stomp.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
@@ -938,6 +941,7 @@
 
 ## spring 
 
+- [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 深入探索Spring框架的核心机制与奥秘。这里是Lex——拥有8年Java后端经验的程序员分享的Spring源码阅读系列。从IOC容器、后置处理器、到Spring核心注解，一步步揭示Spring的魅力与内部工作原理。加入我，与Spring一起成长！
 - [jiangxy/websocket-debug-tool](https://github.com/jiangxy/websocket-debug-tool) - A tool to debug websocket/sockjs/stomp.
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
 - [rbmonster/learning-note](https://github.com/rbmonster/learning-note) - Java开发及面试（个人面试、工作总结、资料收集站）
@@ -950,6 +954,7 @@
 
 ## spring-boot 
 
+- [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 深入探索Spring框架的核心机制与奥秘。这里是Lex——拥有8年Java后端经验的程序员分享的Spring源码阅读系列。从IOC容器、后置处理器、到Spring核心注解，一步步揭示Spring的魅力与内部工作原理。加入我，与Spring一起成长！
 - [baomidou/dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 - [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
@@ -1054,6 +1059,7 @@
 
 ## vue 
 
+- [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word preview library
 - [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.1、 Spring Cloud 2022、 OAuth2 . Give a star
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表单/表格解决方案
@@ -1067,6 +1073,7 @@
 
 ## web 
 
+- [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 深入探索Spring框架的核心机制与奥秘。这里是Lex——拥有8年Java后端经验的程序员分享的Spring源码阅读系列。从IOC容器、后置处理器、到Spring核心注解，一步步揭示Spring的魅力与内部工作原理。加入我，与Spring一起成长！
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 ## web-components 
