@@ -133,7 +133,7 @@
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [houkunlin-starter/system-dict-starter](https://github.com/houkunlin-starter/system-dict-starter) - 系统数据字典自动翻译成字典文本。可集合系统数据库中存储的用户数据字典，也可使用枚举做系统数据字典，主要用在返回数据给前端时自动把字典值翻译成字典文本信息。
-- [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2022 、Spring Boot 3.1、 OAuth2 的 RBAC 权限管理系统
 - [vladmihalcea/hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
