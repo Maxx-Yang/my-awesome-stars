@@ -196,6 +196,7 @@
 
 ## JavaScript 
 
+- [lencx/Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
 - [getsomecat/GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
