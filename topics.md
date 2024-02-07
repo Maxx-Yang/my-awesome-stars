@@ -808,7 +808,7 @@
 - [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
 - [he3-app/he3-feedback](https://github.com/he3-app/he3-feedback) - He3 App Feedback Forum
 - [BrodyYoung/awesome-admin](https://github.com/BrodyYoung/awesome-admin) - Awesome Admin Template. 优秀的后台管理框架
-- [lencx/Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
+- [lencx/Noi](https://github.com/lencx/Noi) - 💥 Power Your World with AI - Explore, Extend, Empower.
 - [getsomecat/GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
