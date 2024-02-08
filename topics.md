@@ -808,7 +808,7 @@
 - [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
 - [he3-app/he3-feedback](https://github.com/he3-app/he3-feedback) - He3 App Feedback Forum
 - [BrodyYoung/awesome-admin](https://github.com/BrodyYoung/awesome-admin) - Awesome Admin Template. 优秀的后台管理框架
-- [lencx/Noi](https://github.com/lencx/Noi) - 💥 Power Your World with AI - Explore, Extend, Empower.
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [getsomecat/GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
@@ -834,7 +834,6 @@
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [QiuChenlyOpenSource/MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) - 歌曲下载
-- [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [flyzy2005/superspeed](https://github.com/flyzy2005/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
