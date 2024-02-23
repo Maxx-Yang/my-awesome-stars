@@ -146,6 +146,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -452,12 +453,14 @@
 
 ## git 
 
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 
 ## github 
 
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -815,7 +818,9 @@
 
 ## others 
 
-- [disingn/copatv](https://github.com/disingn/copatv) - Copatv 是一款专业的工具，专为 GitHub Copilot 提供远程授权，拥有 100% 的成功授权率。它支持包括 Jetbrains 全系列和 VS Code 在内的多种集成开发环境（IDE）。
+- [gobbledegook/creevey](https://github.com/gobbledegook/creevey) - Phoenix Slides
+- [jasypt/jasypt](https://github.com/jasypt/jasypt) - Jasypt (Java Simplified Encryption) is a java library which allows the developer to add basic encryption capabilities to his/her projects with minimum effort, and without the need of having deep knowl
+- [disingn/copatv](https://github.com/disingn/copatv) - Copatv 是一款专业的工具，专为 GitHub Copilot 提供远程授权、激活，拥有 100% 的成功授权率和激活率。它支持包括 Jetbrains 全系列和 VS Code 在内的多种集成开发环境（IDE）。
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🖌 Webstudio Visual Builder
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
@@ -1232,6 +1237,10 @@
 ## web-components 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## webapp 
+
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 
 ## webpack 
 
