@@ -89,6 +89,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -316,7 +317,7 @@
 
 ## csharp 
 
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
 
@@ -794,6 +795,10 @@
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 - [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+
+## natural-language-processing 
+
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## neovim 
 
@@ -1279,7 +1284,7 @@
 ## windows 
 
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
