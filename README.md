@@ -237,7 +237,7 @@
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Bl4Cc4t/GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Userscript to modify the looks of twitter.com
-- [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
+- [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and Shadowrocket!
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [githubdulong/Script](https://github.com/githubdulong/Script) - QuantumultX｜Surge｜Loon
 - [KOP-XIAO/QuantumultX-Surge-API](https://github.com/KOP-XIAO/QuantumultX-Surge-API) - Several server-convert APIs  for QuantumultX/Surge/Clash/Mellow
@@ -405,7 +405,7 @@
 
 ## Swift 
 
-- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
