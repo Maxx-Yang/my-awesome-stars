@@ -98,7 +98,6 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [disingn/copatv](https://github.com/disingn/copatv) - Copatv 是一款专业的GitHub copilot 激活、授权工具，专为 GitHub Copilot 提供远程授权、激活，拥有 100% 的成功授权率和激活率。它支持包括 Jetbrains 全系列和 VS Code 在内的多种集成开发环境（IDE）。
-- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
@@ -170,7 +169,7 @@
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [houkunlin-starter/system-dict-starter](https://github.com/houkunlin-starter/system-dict-starter) - 系统数据字典自动翻译成字典文本。可集合系统数据库中存储的用户数据字典，也可使用枚举做系统数据字典，主要用在返回数据给前端时自动把字典值翻译成字典文本信息。
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2022 、Spring Boot 3.1、 OAuth2 的 RBAC 权限管理系统
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2023 、Spring Boot 3.2、 OAuth2 的 RBAC 权限管理系统
 - [vladmihalcea/hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
