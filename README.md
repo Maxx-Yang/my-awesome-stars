@@ -391,6 +391,7 @@
 
 ## Shell 
 
+- [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [rime/plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [willbchang/popclip-azure-text-to-speech](https://github.com/willbchang/popclip-azure-text-to-speech) - A PopClip extension to speak selected text with Azure TTS.
