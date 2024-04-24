@@ -456,7 +456,6 @@
 - [coolpace/V2EX_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
