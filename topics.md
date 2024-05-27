@@ -367,7 +367,7 @@
 ## database 
 
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -521,7 +521,7 @@
 
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
@@ -568,7 +568,7 @@
 
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -861,7 +861,7 @@
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
@@ -1192,7 +1192,7 @@
 ## serverless 
 
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 
 ## shell 
@@ -1255,7 +1255,7 @@
 
 ## sql 
 
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
