@@ -255,6 +255,7 @@
 
 ## chatgpt 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为中层框架，以大模型应用为上游产品，提供全链路数字化解决方案。加入技术社区：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
@@ -437,6 +438,7 @@
 
 ## electron 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
@@ -688,7 +690,7 @@
 - [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
-- [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 建议star，不支持fork！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
+- [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 建议star，不要fork，因为我喜欢force push！涵盖互联网大厂数据库、缓存、DDD、设计模式、微服务架构、主流中间件框架原理及真实业务最佳实践。欢迎关注公众号：JavaEdge，一起交流学习！
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
@@ -830,6 +832,7 @@
 
 ## markdown 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [Sayi/poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
@@ -1186,6 +1189,7 @@
 
 ## self-hosted 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
