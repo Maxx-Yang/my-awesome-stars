@@ -29,7 +29,6 @@
 - [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -386,6 +385,7 @@
 
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -401,10 +401,6 @@
 - [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
 - [moerv9/chatgpt-telegram-bot](https://github.com/moerv9/chatgpt-telegram-bot) - A telegram bot that allows you to chat with ChatGPT.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## QML 
-
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ## Ruby 
 
