@@ -50,7 +50,6 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [embedded](#embedded)
-- [ember](#ember)
 - [english](#english)
 - [es6](#es6)
 - [firefox](#firefox)
@@ -443,7 +442,6 @@
 ## documentation 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## dotnet 
 
@@ -468,10 +466,6 @@
 ## embedded 
 
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-
-## ember 
-
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## english 
 
