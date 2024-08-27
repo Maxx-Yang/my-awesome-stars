@@ -521,6 +521,7 @@
 
 ## Vue 
 
+- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - 一个frpc桌面客户端
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [cainsyake/vue-doc-preview](https://github.com/cainsyake/vue-doc-preview) - A vue document preview component
