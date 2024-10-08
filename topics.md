@@ -387,7 +387,7 @@
 
 ## data-visualization 
 
-- [hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres) - 🎉🎉🎊 一款让你的三维可视化项目快速落地の开源框架 🎊🎉🎉 永久开源，免费商用 【 three vue ts js 】
+- [hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres) - An open-source framework that enables rapid implementation of your 3D visualization projects [tres.js three.js vue3 ts]
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -530,7 +530,7 @@
 
 ## gis 
 
-- [hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres) - 🎉🎉🎊 一款让你的三维可视化项目快速落地の开源框架 🎊🎉🎉 永久开源，免费商用 【 three vue ts js 】
+- [hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres) - An open-source framework that enables rapid implementation of your 3D visualization projects [tres.js three.js vue3 ts]
 
 ## git 
 
