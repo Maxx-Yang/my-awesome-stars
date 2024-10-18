@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Crystal](#crystal)
 - [Dart](#dart)
+- [Erlang](#erlang)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -90,6 +91,10 @@
 - [guozhigq/flutter_v2ex](https://github.com/guozhigq/flutter_v2ex) - 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
+## Erlang 
+
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
+
 ## Go 
 
 - [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试
@@ -136,6 +141,7 @@
 
 ## Java 
 
+- [jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理
 - [ssssssss-team/magic-api](https://github.com/ssssssss-team/magic-api) - magic-api 是一个接口快速开发框架，通过Web页面编写脚本以及配置，自动映射为HTTP接口，无需定义Controller、Service、Dao、Mapper、XML、VO等Java对象
 - [freemansoft/jacob-project](https://github.com/freemansoft/jacob-project) - JACOB is a JAVA-COM Bridge that allows you to call COM Automation components from Java. It uses JNI to make native calls to the COM libraries. JACOB runs on x86 and x64 environments supporting 32 bit 
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
