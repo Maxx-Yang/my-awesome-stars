@@ -237,7 +237,7 @@
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 - [WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio) - DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualizati
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
-- [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+- [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The programmer-friendly testing framework for Java and the JVM
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
