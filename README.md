@@ -202,7 +202,7 @@
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [houkunlin-starter/system-dict-starter](https://github.com/houkunlin-starter/system-dict-starter) - 系统数据字典自动翻译成字典文本。可集合系统数据库中存储的用户数据字典，也可使用枚举做系统数据字典，主要用在返回数据给前端时自动把字典值翻译成字典文本信息。
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2024 、Spring Boot 3.4、 OAuth2 的 RBAC 权限管理系统
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2025 、Spring Boot 3.5、 OAuth2 的 RBAC 权限管理系统
 - [vladmihalcea/hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser
@@ -255,7 +255,7 @@
 - [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - three+vue3&lt;tres&gt; : An open-source framework that enables rapid implementation of your 3D visualization projects [微信小程序 tvt.js tres.js three.js vue3 ts]
 - [jmesnil/stomp-websocket](https://github.com/jmesnil/stomp-websocket) - Stomp client for Web browsers and node.js apps
 - [syhyz1990/starpassword](https://github.com/syhyz1990/starpassword) - 油猴脚本 - 当鼠标停留在密码框时显示星号密码。再也不担心忘记密码和输错密码了。
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [moshang-ax/lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [getsomecat/GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
