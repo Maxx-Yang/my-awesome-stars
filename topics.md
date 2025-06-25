@@ -202,7 +202,7 @@
 
 ## angular 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## ansible 
@@ -447,7 +447,7 @@
 
 ## django 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## docker 
 
@@ -878,7 +878,7 @@
 
 ## machine-learning 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## macos 
 
@@ -1029,6 +1029,7 @@
 
 ## others 
 
+- [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 - [Sayi/ddd-cargo](https://github.com/Sayi/ddd-cargo) - Domain-Driven Design
 - [sunnyrose1302/vps-streaming-media-unlock-test-script](https://github.com/sunnyrose1302/vps-streaming-media-unlock-test-script) - 流媒体解锁一键测试脚本
 - [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, and programmable component-based rule engine/process engine. Component reuse, synchronous/asynchronous orchestration, dynamic orchestration, multi-language scripting support
