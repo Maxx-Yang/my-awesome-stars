@@ -1384,7 +1384,7 @@
 - [baomidou/dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 - [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
-- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.4、 Spring Cloud 2024、 OAuth2 . Give a star
+- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.5、 Spring Cloud 2025、 OAuth2 . Give a star
 - [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2025 、Spring Boot 3.5、 OAuth2 的 RBAC 权限管理系统
 - [vladmihalcea/hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 - [callicoder/spring-boot-file-upload-download-rest-api-example](https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example) - Spring Boot File Upload / Download Rest API Example
@@ -1533,7 +1533,7 @@
 - [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.4、 Spring Cloud 2024、 OAuth2 . Give a star
+- [pig-mesh/pig-ui](https://github.com/pig-mesh/pig-ui) - 🚀 The best rbac web  framework. base on Spring Boot 3.5、 Spring Cloud 2025、 OAuth2 . Give a star
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
