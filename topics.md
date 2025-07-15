@@ -1077,7 +1077,7 @@
 - [Iorest/rime-setting](https://github.com/Iorest/rime-setting) - rime 输入法配置
 - [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 - [mehhaha/Rime](https://github.com/mehhaha/Rime) - 
-- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
+- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
 - [rime/plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
