@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -178,7 +179,10 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
+
+## 3d 
+
+- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - Vue 3 + TresJS integration for Three.js 3D graphics. [tvt.js tres.js three.js vue3 ts]
 
 ## ai 
 
@@ -199,6 +203,7 @@
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [guozhigq/flutter_v2ex](https://github.com/guozhigq/flutter_v2ex) - 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - List of All Programming Telegram Group
@@ -370,7 +375,7 @@
 
 ## computer-vision 
 
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 
 ## config 
 
@@ -503,7 +508,7 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -635,7 +640,6 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -691,7 +695,7 @@
 
 ## image-processing 
 
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 
 ## instagram 
 
@@ -699,6 +703,7 @@
 
 ## ios 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -903,6 +908,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
@@ -1060,7 +1066,6 @@
 - [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 - [TaoK/PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
-- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - three+vue3&lt;tres&gt; : An open-source framework that enables rapid implementation of your 3D visualization projects [tvt.js tres.js three.js vue3 ts]
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [ActiveCampaign/postmark-templates](https://github.com/ActiveCampaign/postmark-templates) - Rock-solid transactional email templates for applications.
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。产品正式演示体验、社群咨询、商务采购：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
@@ -1153,6 +1158,7 @@
 - [Tartarus2014/QuantumultX-Script](https://github.com/Tartarus2014/QuantumultX-Script) - QuantumultX脚本收集
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
 - [crossutility/Quantumult-X](https://github.com/crossutility/Quantumult-X) - 
+- [SukkaW/zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
@@ -1166,6 +1172,7 @@
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [apache/commons-collections](https://github.com/apache/commons-collections) - Apache Commons Collections
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
@@ -1266,7 +1273,7 @@
 
 ## pytorch 
 
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 
 ## qt 
 
@@ -1509,7 +1516,7 @@
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -1585,6 +1592,7 @@
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1596,15 +1604,6 @@
 ## xml 
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-
-## zsh 
-
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
-- [SukkaW/zsh-proxy](https://github.com/SukkaW/zsh-proxy) - :nut_and_bolt: An oh-my-zsh plugin to configure proxy
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
