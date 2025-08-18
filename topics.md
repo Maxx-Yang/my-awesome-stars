@@ -36,6 +36,7 @@
 - [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [dart](#dart)
@@ -387,6 +388,10 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
+
+## crawler 
+
+- [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 
 ## cryptography 
 
