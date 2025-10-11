@@ -181,6 +181,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -1612,6 +1613,11 @@
 ## xml 
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+
+## youtube 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## zsh 
 
