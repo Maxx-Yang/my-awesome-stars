@@ -1475,12 +1475,12 @@
 ## telegram 
 
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
-- [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## telegram-bot 
 
-- [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 
 ## terminal 
