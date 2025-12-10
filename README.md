@@ -261,6 +261,7 @@
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [501351981/vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
+- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [tw93/Maple](https://github.com/tw93/Maple) - 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  隐藏书签栏，使用枫叶书签让你行云流水
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
@@ -353,7 +354,6 @@
 - [BrodyYoung/awesome-admin](https://github.com/BrodyYoung/awesome-admin) - Awesome Admin Template. 优秀的后台管理系统
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 - [mehhaha/Rime](https://github.com/mehhaha/Rime) - 
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 - [QiuChenlyOpenSource/MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) - 歌曲下载
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
