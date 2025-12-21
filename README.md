@@ -314,7 +314,6 @@
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
-- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 
 ## Lua 
 
@@ -371,6 +370,7 @@
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [devoxx/JavaRoadmap](https://github.com/devoxx/JavaRoadmap) - The 2024 Java Developers Roadmap
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [FasterXML/jackson](https://github.com/FasterXML/jackson) - Main Portal page for the Jackson project
 - [wsldl-pg/CentWSL](https://github.com/wsldl-pg/CentWSL) - [DISCONTINUED] CentOS based WSL distribution
