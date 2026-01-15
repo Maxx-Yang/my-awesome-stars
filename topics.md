@@ -1113,7 +1113,7 @@
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept fiel
 - [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
-- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - clash-for-linux
+- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 在 Linux 上提供一套完整的 Clash / Mihomo（Clash Meta） 代理与管理面板
 - [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 - [TaoK/PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
