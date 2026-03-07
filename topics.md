@@ -1207,7 +1207,7 @@
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
 - [crossutility/Quantumult-X](https://github.com/crossutility/Quantumult-X) - 
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
+- [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
