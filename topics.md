@@ -1147,7 +1147,7 @@
 - [rime/plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
-- [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [SweetInk/jrebel-mybatisplus](https://github.com/SweetInk/jrebel-mybatisplus) - A hook plugin for Support MybatisPlus that reloads modified SQL maps.
 - [weierz/popclip-azure-text-to-speech](https://github.com/weierz/popclip-azure-text-to-speech) - A PopClip extension to speak selected text with Azure TTS.
