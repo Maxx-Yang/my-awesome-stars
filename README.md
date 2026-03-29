@@ -233,6 +233,7 @@
 - [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [callicoder/spring-boot-file-upload-download-rest-api-example](https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example) - Spring Boot File Upload / Download Rest API Example
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
 - [wkeyuan/DWSurvey](https://github.com/wkeyuan/DWSurvey) - Survey System. 最好用的开源问卷调查系统、表单系统。
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
@@ -411,7 +412,6 @@
 - [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
 - [moerv9/chatgpt-telegram-bot](https://github.com/moerv9/chatgpt-telegram-bot) - A telegram bot that allows you to chat with ChatGPT.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
 ## Rich Text Format 
 
