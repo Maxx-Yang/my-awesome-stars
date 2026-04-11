@@ -1127,7 +1127,7 @@
 - [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 - [TaoK/PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
-- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - Vue 3 + TresJS integration for Three.js 3D graphics. [tvt.js tres.js three.js vue3 ts]
+- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - 🎉一款让你的三维可视化项目快速落地的开源框架，天然具备良好的跨平台与🎊国产化适配能力 支持低代码编辑器、Web / 小程序 / App 全端部署，永久免费商用。 融合数字孪生、三维可视化（WebGL / WebGPU / three.js / tres.js / tvt.js），并扩展 AI 能力（Skills / OpenSpec），助力智能化场景快速构建 🚀
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [ActiveCampaign/postmark-templates](https://github.com/ActiveCampaign/postmark-templates) - Rock-solid transactional email templates for applications.
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。产品正式演示体验、社群咨询、商务采购：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
