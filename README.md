@@ -547,7 +547,7 @@
 
 ## Vue 
 
-- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - Vue 3 + TresJS integration for Three.js 3D graphics. [tvt.js tres.js three.js vue3 ts]
+- [hawk86104/three-vue-tres](https://github.com/hawk86104/three-vue-tres) - 🎉一款让你的三维可视化项目快速落地的开源框架，天然具备良好的跨平台与🎊国产化适配能力 支持低代码编辑器、Web / 小程序 / App 全端部署，永久免费商用。 融合数字孪生、三维可视化（WebGL / WebGPU / three.js / tres.js / tvt.js），并扩展 AI 能力（Skills / OpenSpec），助力智能化场景快速构建 🚀
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
 - [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [cainsyake/vue-doc-preview](https://github.com/cainsyake/vue-doc-preview) - A vue document preview component
