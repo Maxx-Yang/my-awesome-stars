@@ -366,7 +366,6 @@
 
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 
 ## claude-code 
@@ -493,7 +492,6 @@
 
 ## devops 
 
-- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -899,7 +897,7 @@
 ## linux 
 
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
-- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
+- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 代理环境（养虾人必备）
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1408,7 +1406,6 @@
 
 ## self-hosted 
 
-- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
@@ -1628,7 +1625,7 @@
 
 ## vpn 
 
-- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
+- [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐱 一个更完整、更优雅的 Linux Clash / Mihomo 代理环境（养虾人必备）
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
