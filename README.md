@@ -71,7 +71,7 @@
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -100,7 +100,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单易用的数据治理平台。目前，官方插件支持ElasticSearch，mysql，mongodb,redis,json管理(不再维护)
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
-- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihom
+- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，自由定制多种格式 GeoIP 文件，包括但不限于 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset、Nginx allow & deny 规则文件等。Enhanced edition of GeoIP for
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) - 三网回程路由测试
 - [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
@@ -346,7 +346,6 @@
 ## Others 
 
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
-- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [BrodyYoung/awesome-admin](https://github.com/BrodyYoung/awesome-admin) - Awesome Admin Template. 优秀的后台管理系统
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
@@ -489,6 +488,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
