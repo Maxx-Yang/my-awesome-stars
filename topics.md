@@ -31,6 +31,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -378,6 +379,15 @@
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，自由定制多种格式 GeoIP 文件，包括但不限于 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset、Nginx allow & deny 规则文件等。Enhanced edition of GeoIP for
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
+
+## claude 
+
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## claude-code 
 
