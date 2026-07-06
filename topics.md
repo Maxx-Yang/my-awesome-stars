@@ -902,6 +902,7 @@
 
 ## kubernetes 
 
+- [data-infra/cube-studio](https://github.com/data-infra/cube-studio) - cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计算，自动化标注平台，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模
 - [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
@@ -1126,7 +1127,6 @@
 
 ## others 
 
-- [data-infra/cube-studio](https://github.com/data-infra/cube-studio) - cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计算，自动化标注平台，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 - [Sayi/ddd-cargo](https://github.com/Sayi/ddd-cargo) - Domain-Driven Design
 - [sunnyrose1302/vps-streaming-media-unlock-test-script](https://github.com/sunnyrose1302/vps-streaming-media-unlock-test-script) - 流媒体解锁一键测试脚本
