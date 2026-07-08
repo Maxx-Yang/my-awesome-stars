@@ -1148,7 +1148,7 @@
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [ActiveCampaign/postmark-templates](https://github.com/ActiveCampaign/postmark-templates) - Rock-solid transactional email templates for applications.
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。产品正式演示体验、社群咨询、商务采购：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 微信小程序开发资源汇总 :100:
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
 - [jmesnil/stomp-websocket](https://github.com/jmesnil/stomp-websocket) - Stomp client for Web browsers and node.js apps
 - [CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit) - 一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。
@@ -1184,7 +1184,7 @@
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [duolabmeng6/projection_screen_tv](https://github.com/duolabmeng6/projection_screen_tv) - Easily put the mp4 files on macos and window onto the TV to watch It's like casting a screen on a mobile phone.
 - [cainsyake/vue-doc-preview](https://github.com/cainsyake/vue-doc-preview) - A vue document preview component
-- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hi  Hysteria! 科学上网服务器速度不佳？一键搞定 | One-click Hysteria2 installer & manager | i18n (English/中文/فارسی/Выберите язык) | mihomo & sing-box client config | Realm P2P | WARP
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [QiuChenlyOpenSource/MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) - 歌曲下载
