@@ -1176,7 +1176,7 @@
 - [rime/plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
-- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+- [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo) - Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [SweetInk/jrebel-mybatisplus](https://github.com/SweetInk/jrebel-mybatisplus) - A hook plugin for Support MybatisPlus that reloads modified SQL maps.
 - [weierz/popclip-azure-text-to-speech](https://github.com/weierz/popclip-azure-text-to-speech) - A PopClip extension to speak selected text with Azure TTS.
@@ -1243,7 +1243,7 @@
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 - [chillzhuang/blade-tool](https://github.com/chillzhuang/blade-tool) - SpringBlade 4.0 架构核心工具包，SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 3.5 、Spring Cloud 2025 等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。  官网：https://bladex.cn
-- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java17 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 3.5 、Spring Cloud 2025 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微
+- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 4 、Spring Cloud 2025、Java 21  等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
