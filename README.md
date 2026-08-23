@@ -359,7 +359,7 @@
 - [ecomfe/awesome-echarts](https://github.com/ecomfe/awesome-echarts) - Awesome list of  Apache ECharts
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [cursor/cursor](https://github.com/cursor/cursor) - 
 - [lovezm/chatgpt-plus-freeshare](https://github.com/lovezm/chatgpt-plus-freeshare) - chatgpt plus账号免费分享
