@@ -102,6 +102,7 @@
 - [jenkins](#jenkins)
 - [jquery](#jquery)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
@@ -917,6 +918,10 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson: works on streaming API (core) implementation(s)
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
+
+## knowledge-graph 
+
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 
 ## kotlin 
 
